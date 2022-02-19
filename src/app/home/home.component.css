@@ -1,0 +1,33 @@
+
+*{
+   margin-left: 10%;
+    margin-top: 10%;
+}
+
+#leftbox {
+    float:left; 
+  
+    width:25%;
+    height:280px;
+}
+#middlebox{
+    float:left; 
+   
+    width:25%;
+    height:280px;
+}
+#rightbox{
+    float:left;
+    
+    width:25%;
+    height:280px;
+}
+*{
+
+    background-image: url('https://t4.ftcdn.net/jpg/03/63/39/11/360_F_363391105_aksgy8xt3vyzPEMD1NI3cgekWtthlguC.jpg');
+
+    background-repeat: no-repeat; 
+    background-size: cover; 
+
+
+}
